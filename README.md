@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kashish Gaur
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently persuing BTech in Computer Science
+-  Email ID - kashishgaur1100@gmail.com
 
 
 <!---
